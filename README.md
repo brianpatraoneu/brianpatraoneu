@@ -7,7 +7,7 @@ Full-stack Web Developer
 I am a skilled software developer and team lead with a successful track record of guiding teams and delivering multiple SAAS-based applications to solve complex business challenges. As a graduate student, I am enthusiastic about advancing my professional development and achieving my ultimate goal of becoming a software architect. With four years of industry experience and proficiency in programming languages like Java, PHP, JavaScript and React. I possess the necessary expertise to tackle real-world problems and make a significant impact. I am highly motivated to learn and eager to apply my skills to new and challenging projects
 
 * 🌍  I'm based in Boston
-* ✉️  You can contact me at [brianpatrao1996@gmail.com](mailto:patrao.b@northeastern.edu)
+* ✉️  You can contact me at [patrao.b@northeastern.edu](mailto:patrao.b@northeastern.edu)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on projects
 * ⚡  I love most sports and a HUGE fan of deep house and melodic techno genres
